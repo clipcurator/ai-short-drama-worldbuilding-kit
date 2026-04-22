@@ -1,0 +1,20 @@
+{
+  "repository": "ai-short-drama-worldbuilding-kit",
+  "worldbuilding_layers": [
+    "premise",
+    "rules",
+    "locations",
+    "power_map",
+    "timeline",
+    "secrets",
+    "continuity_memory"
+  ],
+  "use_cases": [
+    "short_drama",
+    "vertical_drama",
+    "micro_drama",
+    "script_to_video",
+    "ai_storyboard"
+  ]
+}
+
