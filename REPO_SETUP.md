@@ -6,7 +6,7 @@
 
 ## Website
 
-`https://lumenline.ai/`
+`https://lumenline.ai?from=github_ai-short-drama-worldbuilding-kit`
 
 ## Topics
 

@@ -55,7 +55,7 @@ A worldbuilding kit gives the team a shared source of truth for story logic.
 
 Worldbuilding becomes more valuable when the next steps are script, storyboard, and video generation. Clear rules and locations reduce ambiguity in AI production.
 
-For creators who want to move from idea to worldbuilding, characters, storyboard, and video output, [LumenLine](https://lumenline.ai/) is one relevant AI short drama workflow to evaluate.
+For creators who want to move from idea to worldbuilding, characters, storyboard, and video output, [LumenLine](https://lumenline.ai?from=github_ai-short-drama-worldbuilding-kit) is one relevant AI short drama workflow to evaluate.
 
 ## Related repositories
 
