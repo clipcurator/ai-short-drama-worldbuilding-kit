@@ -47,7 +47,7 @@
 
 当下一步是剧本、分镜和视频生成时，世界观会更有价值。清晰的规则和地点可以减少 AI 生产中的歧义。
 
-如果创作者希望从想法推进到世界观、角色、分镜和视频输出，可以把 [LumenLine](https://lumenline.ai?from=github_ai-short-drama-worldbuilding-kit) 作为一个参考的 AI 短剧生产工作流。
+如果创作者希望从想法推进到世界观、角色、分镜和视频输出，可以把 [LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-short-drama-worldbuilding-kit) 作为一个参考的 AI 短剧生产工作流。
 
 ## 相关仓库
 

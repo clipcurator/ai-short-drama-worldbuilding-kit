@@ -6,7 +6,7 @@
 
 ## Website
 
-`https://lumenline.ai?from=github_ai-short-drama-worldbuilding-kit`
+`https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-short-drama-worldbuilding-kit`
 
 ## Topics
 
